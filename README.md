@@ -1,4 +1,4 @@
-This project uses the Data Analytics Life cycle to answer a relevan oceanic question. My question was, "What effect does salinity have on dissolved oxygen along the California coast." The dataset I used came from the website calcofi.com. It is a subsest of data collected by CalCofi stations along the California coast.
+This project uses the Data Analytics Life cycle to answer a relevant oceanic question. My question was, "What effect does salinity have on dissolved oxygen along the California coast." The dataset I used came from the website calcofi.com. It is a subsest of data collected by CalCofi stations along the California coast.
 I used the pandas library to read the dataset. There were missing values so I cleaned it to handle the missing values. Because I was trying to predict a numeric
 value, I chose to use a linear regression model. Before building the model I ran a correlation matrix and looked at the heat map to find the best correlations
 to work with. The scatterplot confirmed visually what the heat map showed as far as the relationships between the different variables. There was a clear trend
