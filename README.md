@@ -7,3 +7,5 @@ about ocean water in that it gets saltier at deeper leves due to density and les
 by marine life who live at deeper levels. The model I ran didn't just use salinity. I used all of the remaining variables except for oxygen. This is a limitation
 that with more time I would have explored differently. The data is also limited by just the California coast. With more time, I could have explored these relationships
 in different regions or at different times of the year. 
+I noticed a straigt line with oxygen that didn't look like it wasn't taking salinity into account. The line was completely straight so it looked like there 
+was a default value of some sort. I would have investigated this more with mroe time. 
