@@ -1,3 +1,8 @@
+# About Me
+My name is Jarod Coleman. I am a recent graduate finance student from UMKC. I am currently pursuing a Data Analytics professional certificate at Johnson County Community College with plans to combine it with my finance degree to work in the field of finance in the realmn of data analytics. I've worked in education for the past 8 years as a middle and high schoo Spanish teacher and a substitute teacher in KC Public Schools. I am currently looking to transition out of education
+into finance.
+
+# Blurb
 This project uses the Data Analytics Life cycle to answer a relevant oceanic question. My question was, "What effect does salinity have on dissolved oxygen along the California coast." The dataset I used came from the website calcofi.com. It is a subsest of data collected by CalCofi stations along the California coast.
 I used the pandas library to read the dataset. There were missing values so I cleaned it to handle the missing values. Because I was trying to predict a numeric
 value, I chose to use a linear regression model. Before building the model I ran a correlation matrix and looked at the heat map to find the best correlations
